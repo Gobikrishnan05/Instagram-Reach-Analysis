@@ -27,6 +27,9 @@ The main objectives of this project were to:
 
 This project is significant because it provides a **data-driven approach** to understanding and optimising Instagram follower growth, a critical metric for influencers, marketers, and brands aiming to expand their reach [11]. By identifying which engagement metrics most influence follows, the project offers actionable insights that can improve content strategies, ultimately leading to higher audience engagement and visibility [11]. The predictive model equips users with a scalable tool for making informed decisions in the social media landscape [12].
 
+## Dataset
+follow the link - https://www.kaggle.com/datasets/amirmotefaker/instagram-data
+
 ## Methodology
 
 ### Approach
